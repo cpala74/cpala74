@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cpala74
 - 👀 I’m interested in SQL, TSQL
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, Git
+- 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me ...
 
 <!---
